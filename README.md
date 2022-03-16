@@ -1,10 +1,10 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is repo for `"labrabota 3"`
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Drozdova Julia, 14 group
 
 # Building
 
